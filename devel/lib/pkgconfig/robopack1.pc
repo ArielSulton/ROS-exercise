@@ -1,0 +1,8 @@
+prefix=/home/arvenuz/robotest/devel
+
+Name: robopack1
+Description: Description of robopack1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

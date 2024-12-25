@@ -1,0 +1,2 @@
+robopack1
+-DCATKIN_DEVEL_PREFIX=/home/arvenuz/robotest/devel -DCMAKE_INSTALL_PREFIX=/home/arvenuz/robotest/install -G Unix Makefiles
